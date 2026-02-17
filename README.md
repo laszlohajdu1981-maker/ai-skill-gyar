@@ -1,6 +1,6 @@
 # 🚀 AI Skill Gyár - 7 Profi Prompt Template
 
-**Készítette:** [A te neved]  
+**Készítette:** [László]  
 **Dátum:** 2026.02.11  
 **Cél:** JSON struktúrált AI output app fejlesztőknek
 
@@ -15,6 +15,10 @@
 | 5 | **Blockchain airdrop** | Jogosultság | `85% SAFE` [file:5] |
 | 6 | **Biztonsági cipő** | S3 cert | `BUY BOA lacing` [file:6] |
 | 7 | **Coffee 2.0** | Napi ár/érték | `Try @ 585 Ft` [file:7] |
+| 8 | **Android Multiwindow** | Fold6 Taskbar kompatibilitás | `YouTube: Install 9/10` |
+| **9** | **skill_generator** | **Auto skill template gen** | **10/10** |
+| **10**| **Fold6 Kijelzővédő**| **Skill gen első output**   | **9/10** |
 
 ## 🎯 MIÉRT HASZNÁLHATÓ?
+
 

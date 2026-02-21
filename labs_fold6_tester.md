@@ -8,6 +8,7 @@ OUTPUT JSON:
 "expected_app": "Taskbar tester + rating chart",
 "filename": "labs_fold6_tester.md"
 }
+| 11 | **Fold6 Labs Dashboard Tester** | Fold6 multi‑window Labs app teszter | `11/10` |
 
 {
   "labs_prompt": "Create an interactive dashboard app for testing Galaxy Z Fold6 multi-window features.

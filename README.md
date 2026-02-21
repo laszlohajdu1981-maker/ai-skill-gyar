@@ -18,7 +18,11 @@
 | 8 | **Android Multiwindow** | Fold6 Taskbar kompatibilitás | `YouTube: Install 9/10` |
 | **9** | **skill_generator** | **Auto skill template gen** | **10/10** |
 | **10**| **Fold6 Kijelzővédő**| **Skill gen első output**   | **9/10** |
+| 10 | Fold6 Kijelzővédő | Skill gen első output | 9/10 |
+| 11 | Fold6 Labs Dashboard Tester | Fold6 multi‑window Labs app teszter | 11/10 |
+
 
 ## 🎯 MIÉRT HASZNÁLHATÓ?
+
 
 
